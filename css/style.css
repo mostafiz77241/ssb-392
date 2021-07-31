@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-bottom: 1px solid rgb(231, 226, 226);
+}
+
+
+.header_part{
+    
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    .logo{
+    
+    width: 20%;
+    float: left;
+
+    }
+    nav{
+    
+    width: 50%;
+    float: right;
+    overflow: hidden;
+    }
+    nav ul{
+    
+    list-style: none;
+    overflow: hidden;
+    float: right;
+    }
+    nav ul li{
+    float: left;
+     margin-left: 30px;
+    }
+    nav ul li a{
+    text-decoration: none;
+    font-size: 18;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: black;
+    }
+    .content_section{
+        width: 70%;
+        margin-left: 15%;
+     
+
+    }
+    .content_section h1{
+        color: #0C2354;
+        font-size: 45PX;
+        text-align: center;
+        margin-top: 30px;
+
+    }
+    .content_section h2{
+        color: #000AFF;
+        text-align: center;
+        font-size: 45PX;
+        margin-top: 15px;
+
+
+
+    }
+    .content_section p{
+        color: #0F2656;
+        text-align: center;
+        margin: 20px 0;
+       
+
+    }
+    .img{
+        text-align: center;
+
+    }
+    .img img{
+
+        width: 48%;
+    }
+    .project_content{
+        overflow: hidden;
+
+    }
+    .left_content{
+        width: 48%;
+        float: left;
+
+    }
+    .left_content h1{
+        color: #F15566;
+        text-align: right;
+
+    }
+    .left_content p{
+
+        text-align: right;
+    }
+    .right_content{
+        width: 48%;
+        float: right;
+
+    }
+    .right_content h1{
+        text-align: left;
+
+    }
+    .service{
+        width: 90%;
+        margin-left: 5%;
+        overflow: hidden;
+        
+
+    }
+    .service_one{
+        width: 30%;
+        background: #FDEBED;
+        float: left;
+        text-align: center;
+        padding: 30px 0;
+       
+        
+      
+
+    }
+    .service_one img{
+        width: 57%;
+        padding-top: 10px;
+    }
+
+    }
+    .service_one h2{
+        text-align: left;
+        padding: 10px;
+
+    }
+    .service_one p{
+        text-align: left;
+        padding: 10px;
+
+    }
+    .service_tow{
+        width: 30%;
+        background: #EBF9F4;
+        float: left;
+        margin-left: 5%;
+        text-align: center;
+        padding: 29px 0;
+        
+        
+
+    }
+    .service_tow img{
+        width: 50%;
+       padding-top: 5px;
+        
+
+    }
+    .service_tow h2{
+        text-align: left;
+        padding: 10px;
+
+    }
+    .service_tow p{
+        text-align: left;
+        padding: 10px;
+
+    }
+    .service_three{
+        width: 30%;
+        background: #FFF7E8;
+        float: right;
+        text-align: center;
+        padding: 34px 0;
+       
+       
+     
+
+    }
+    .service_three img{
+        width: 56%;
+    }
+
+    }
+    .service_three h2{
+        text-align: left;
+        padding: 10px;
+
+    }
+    .service_three p{
+        text-align: left;
+        padding: 10px;
+
+    }
+    footer{
+        background: #008AFF;
+        text-align: center;
+        padding: 30px 0;
+        margin: 30px;
+
+    }
+    footer p{
+        color: rgb(223, 210, 210);
+        font-size: 20PX;
+
+    }
+    footer p span{
+        color: #fff;
+        font-size: 20px;
+        font-weight: 700;
+
+    }
+
+
+        
+    
+   
+    
+     
+      
